@@ -1,13 +1,15 @@
 ### Hi there 👋
 
 - Recently Graduated 😄 with 1st Class Honours in Computer Science (June 2023)
-- 🔭 I’m currently working on a few personal projects
+
+  
 - I'm actively looking for a job as a Software Developer | Project Manager | Mobile Application Developer
 - My strong Languages: Java | Swift | Python | SQL
 - Experience in using Android Studio  SQLite Studio | NetBeans 
 - Interested in UI Design (used Axure RP 10) and Game Development and Design ( Unreal Engine | Unity | Blender )
-- 🌱 I’m currently learning Desktop Application Development | C++ | Step Tracking apps
 
+- 🔭 I’m currently working on a few personal projects
+- 🌱 I’m currently learning Desktop Application Development | C++ | Step Tracking apps
 
 
 - My [LinkedIn](www.linkedin.com/in/aisana-zharmagambetova-7161181bb)
