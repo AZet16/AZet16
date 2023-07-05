@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Recently Graduated 😄
+- Recently Graduated 😄 with 1st Class Honours in Computer Science (June 2023)
 - 🔭 I’m currently working on a few personal projects
 - I'm actively looking for a job as a Software Developer | Project Manager | Mobile Application Developer
 - My strong Languages: Java | Swift | Python | SQL
