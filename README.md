@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="left">I am a Software and Mobile ApplicationDeveloper from Kazakhstan</h1>
+<h1 align="left">I am a Software and Mobile Application Developer from Kazakhstan</h1>
 <h3 align="left"> Recently Graduated 😄 with 1st Class Honours in Computer Science (June 2023)</h3>
 
   
