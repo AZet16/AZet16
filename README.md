@@ -5,11 +5,11 @@
   
 - I'm actively looking for a job as a Software Developer | Project Manager | Mobile Application Developer
 - My strong Languages: Java | Swift | Python | SQL
-- Experience in using Android Studio  SQLite Studio | NetBeans 
-- Interested in UI Design (used Axure RP 10) and Game Development and Design ( Unreal Engine | Unity | Blender )
+- Experience in using Android Studio | SQLite Studio | NetBeans 
+- Interested in UI Design (used Axure RP 10) as well as Game Development and Design ( Unreal Engine | Unity | Blender )
 
-- 🔭 I’m currently working on a few personal projects
-- 🌱 Thus, at the moment I’m learning Desktop Application Development | C++ | Step Tracking apps
+- 🔭 I’m currently working on a few personal projects (learning new things, practice, build a portfolio of projects)
+- 🌱 At the moment I’m learning Desktop Application Development | Step Tracking apps | Spring Boot | WebDev | Cloud
 
 
 <!--- My [LinkedIn](www.linkedin.com/in/aisana-zharmagambetova-7161181bb)-->
